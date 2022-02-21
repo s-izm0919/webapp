@@ -7,6 +7,6 @@
 <title>webapp</title>
 </head>
 <body>
-<h1>HELLO! JavaEE</h1>
+<h1>HELLO! AWS deploy completed</h1>
 </body>
 </html>
